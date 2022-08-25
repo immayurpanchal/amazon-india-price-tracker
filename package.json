@@ -1,0 +1,17 @@
+{
+  "name": "amazon-india-price-tracker",
+  "version": "1.0.0",
+  "description": "Amazon India price tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "india",
+    "price",
+    "tracker"
+  ],
+  "author": "Mayur Panchal",
+  "license": "MIT"
+}
